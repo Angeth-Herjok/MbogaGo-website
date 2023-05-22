@@ -439,6 +439,8 @@ h1{
   footer{
     margin-top: 10%;
   }
+  
+
   @media (max-width: 768px) {
     .foot-inform{
       flex-direction: column;
@@ -448,6 +450,7 @@ h1{
       width: 50%;
       margin-bottom: 20px;
     }
+    
   }
 
 
